@@ -17,7 +17,7 @@ status-website:
   cname: status.thijzert.nl
   # baseUrl: /your-repo-name
   logoUrl: https://www.thijzert.nl/img/logo.png
-  name: Thijzert Uptime
+  name: Thijzert uptime
   introTitle: "All websites related to Thijzert"
   introMessage: "Up, down, left or right?"
   navbar:
