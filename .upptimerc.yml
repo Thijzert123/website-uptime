@@ -18,7 +18,7 @@ status-website:
   logoUrl: https://www.thijzert.nl/img/logo.png
   name: Thijzert Uptime
   introTitle: "All websites related to Thijzert"
-  introMessage: Powered by [Upptime](https://github.com/upptime/upptime).
+  introMessage: "Up, down, left or right?"
   navbar:
     - title: Status
       href: /
